@@ -8,7 +8,7 @@
 
 <h3>Developer · Product Builder</h3>
 
-<img height="180" src="https://64.media.tumblr.com/7251ecb7528e22e96652bd837fd12b6a/d9c5be32c163a5e2-5a/s540x810/d4e3ebd2e21d7e784e31bcf6e693050d7ee13468.gifv" alt="Anime GIF">
+<img height="180" src="https://i.ibb.co/Kpc60zFt/Sketchy-Hiker-Over-Sunset-Mountains.png">
 
 <br><br>
 
