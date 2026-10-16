@@ -1,8 +1,15 @@
+
+<div align="center">
+
 <h2>I'M Wally</h2>
 
 <h3>Developer · Product Builder</h3>
 
-<img height="180" src="https://i.ibb.co/Kpc60zFt/Sketchy-Hiker-Over-Sunset-Mountains.png">
+<img
+  src="https://i.ibb.co/Kpc60zFt/Sketchy-Hiker-Over-Sunset-Mountains.png"
+  alt="Wally overlooking sunset mountains"
+  width="480"
+/>
 
 <br><br>
 
@@ -36,11 +43,11 @@ For me, building is as much about understanding a problem as it is about writing
 
 ### What I Build
 
-* **Software Products** — Turning ideas into complete, usable applications.
-* **Web Applications** — Building modern interfaces with an emphasis on clarity, performance, and maintainability.
-* **Developer Tools** — Creating tools that make workflows simpler and more effective.
-* **AI Applications** — Exploring practical ways to use modern AI in software.
-* **Product Systems** — Thinking about how technology, users, and product decisions fit together.
+- **Software Products** — Turning ideas into complete, usable applications.
+- **Web Applications** — Building modern interfaces with an emphasis on clarity, performance, and maintainability.
+- **Developer Tools** — Creating tools that make workflows simpler and more effective.
+- **AI Applications** — Exploring practical ways to use modern AI in software.
+- **Product Systems** — Thinking about how technology, users, and product decisions fit together.
 
 ---
 
