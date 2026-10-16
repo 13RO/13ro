@@ -6,7 +6,7 @@
 <h3>Developer · Product Builder</h3>
 
 <img
-  src="https://i.ibb.co/Kpc60zFt/Sketchy-Hiker-Over-Sunset-Mountains.png"
+  src="https://i.ibb.co/6czPxRpC/Windy-Sunset-Journey.png"
   alt="Wally overlooking sunset mountains"
   width="480"
 />
