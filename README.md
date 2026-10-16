@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://i.ibb.co/HTJxfnzW/Sunrise-Coding-Desk-with-Peeking-Cat.png" alt="totalwally banner" width="100%">
-
-<br><br>
-
 <h2>I'M Wally</h2>
 
 <h3>Developer · Product Builder</h3>
