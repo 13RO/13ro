@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h2>I'M Wally</h2>
+<h2>I'M Your Bro</h2>
 
 <h3>Developer · Product Builder</h3>
 
