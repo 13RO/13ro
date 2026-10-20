@@ -1,4 +1,5 @@
- <div align="center">
+```html
+<div align="center">
 
 <h2>I'M Your I3ro</h2>
 
@@ -17,10 +18,6 @@
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/MrZoic">
-    <img src="https://img.shields.io/badge/GitHub-I3ro-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
   <a href="https://discord.com/users/944936797752934480">
     <img src="https://img.shields.io/badge/Discord-I3ro-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -107,11 +104,8 @@ Good software does more than work. It should be clear, dependable, and pleasant 
 ### Connect
 
 <p align="left">
-  <a href="https://github.com/MrZoic">
-    <img src="https://img.shields.io/badge/GitHub-I3ro-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
   <a href="https://discord.com/users/944936797752934480">
     <img src="https://img.shields.io/badge/Discord-I3ro-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
+```
