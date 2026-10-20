@@ -1,13 +1,12 @@
+ <div align="center">
 
-<div align="center">
-
-<h2>I'M Your Bro</h2>
+<h2>I'M Your I3ro</h2>
 
 <h3>Developer · Product Builder</h3>
 
 <img
   src="https://i.ibb.co/6czPxRpC/Windy-Sunset-Journey.png"
-  alt="Wally overlooking sunset mountains"
+  alt="Sunset over mountain scenery"
   width="480"
 />
 
@@ -19,11 +18,11 @@
 
 <p align="center">
   <a href="https://github.com/MrZoic">
-    <img src="https://img.shields.io/badge/GitHub-Wally-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-I3ro-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;
   <a href="https://discord.com/users/944936797752934480">
-    <img src="https://img.shields.io/badge/Discord-Wally-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-I3ro-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
@@ -33,7 +32,7 @@
 
 ### About Me
 
-I’m a developer and product builder who enjoys turning ideas into useful software.
+I'm a developer and product builder who enjoys turning ideas into useful software.
 
 I like working across engineering, product development, and system design, with a particular interest in creating things from the ground up and improving them through iteration.
 
@@ -109,10 +108,10 @@ Good software does more than work. It should be clear, dependable, and pleasant 
 
 <p align="left">
   <a href="https://github.com/MrZoic">
-    <img src="https://img.shields.io/badge/GitHub-Wally-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-I3ro-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;
   <a href="https://discord.com/users/944936797752934480">
-    <img src="https://img.shields.io/badge/Discord-Wally-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-I3ro-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
